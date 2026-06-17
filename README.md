@@ -164,7 +164,7 @@ Fully connected neural network used as a baseline deep learning classifier.
 * Research & Experimental Design
 
 ---
-## Dissertation
+## Final year group project
 
 This project was completed as part of the Bachelor of Engineering Information Technology Degree at the PVG's College of Engineering & Technology during the 2018–2022 academic year.
 
@@ -173,5 +173,5 @@ This project was completed as part of the Bachelor of Engineering Information Te
 
 **Prajwal Satpute**
 
-BE-IT
+BE-IT, PVG's College of Engineering & Technology
 
